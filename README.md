@@ -1,16 +1,35 @@
-# React + Vite
+# 프로젝트
+**🌟사주는 본인이 직접 해석하는 게 더 좋다고 합니다🌟**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+사주를 알면 본인이 타고난 기운을 어떻게 활용하면 되는지, 기운이 들어왔을 때 어떻게 활용하면 되는지를 알 수 있습니다.<br>
+그래서 많은 사람들이 사주를 봅니다.<br>
+하지만 사주는 본인이 직접 해석하는게 가장 효과가 좋다고 합니다.<br>
 
-Currently, two official plugins are available:
+**왜냐하면** 지금까지 본인이 살아온 인생을 본인이 가장 잘 알기 때문에 그렇습니다.<br>
+남이 해석해줬을 때보다 직접 해석했을 때 그 기운을 가장 잘 활용할 수 있다고 합니다.<br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**그래서**
+사주 공부를 시작했습니다. 하지만 사주는 매우 방대한 양을 가지고 있어 정리할 공간이 필요했습니다.<br>
+여기에 사주 요소 하나하나씩 정리해서 궁금한 요소만 쏙쏙 골라 볼 수 있게 하려고 합니다.<br>
 
-## React Compiler
+## 기술 스택
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+| 구분       | 기술          |
+| -------- | ----------- |
+| Frontend | React, Vite |
+| Language | JavaScript  |
+| Styling  | CSS         |
 
-## Expanding the ESLint configuration
+## 주요 기능
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| 기능     | 설명            |
+| ------ | ------------- |
+| 📝 게시글 목록 | 등록된 게시글 조회    |
+| 🔍 게시글 검색 | 키워드 기반 게시글 검색 |
+| 🏷️ 태그 필터링 | 태그별 게시글 필터링   |
+| ✏️ 게시글 작성 | 새로운 게시글 등록    |
+
+추후 만세력 계산해 주는 기능 추가하고 싶습니다!
+
+## 배포 주소
+https://...
